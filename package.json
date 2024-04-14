@@ -1,0 +1,26 @@
+{
+  "name": "storyworkshop",
+  "version": "1.0.0",
+  "description": "Thereis nothing here yet, I will be getting to this shortly.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-p-bailey/StoryWorkshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-p-bailey/StoryWorkshop/issues"
+  },
+  "homepage": "https://github.com/d-p-bailey/StoryWorkshop#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
