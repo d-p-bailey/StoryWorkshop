@@ -14,27 +14,24 @@
       text-align: center;
     }
 
-    #random_button{
+    .button{
       display: block;
       margin: auto;
       width: 25%;
     }
-    #custom_button{
-      display: block;
-      margin: auto;
-      width: 25%;
-    }
+    
     #button_gap{
       display: block;
       height: 10px;
     }
+
   </style>
 </head>
 <body>
   <div id = "title"><h1>Story Workshop</h1></div>
-  <button id = "random_button" onclick = "location = './random.html'">GENERATE RANDOM</button>
+  <button id = "random" class = "button" onclick = "location = './random.html'">GENERATE RANDOM</button>
   <div id = "button_gap"></div>
-  <button id = "custom_button" onclick = "location ='./custom.html'">GENERATE CUSTOM</button>
+  <button id = "custom" class = "button" onclick = "location ='./custom.html'">GENERATE CUSTOM</button>
   <div id = "main">
     <div></div>
     <div></div>
@@ -42,5 +39,6 @@
     <div></div>
     <div></div>
   </div>
+
 </body>
 </html>

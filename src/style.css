@@ -1,3 +1,5 @@
 html{
-  background-color: lightblue;
+  background-image: url('../images/blueprint-8664842_640.webp');
+  background-size: cover;
+  background-attachment: fixed;
 }
