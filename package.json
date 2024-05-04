@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/d-p-bailey/StoryWorkshop#readme",
   "dependencies": {
-    "express": "^4.18.3"
+    "express": "^4.18.3",
+    "sqlite3": "^5.1.7"
   }
 }
